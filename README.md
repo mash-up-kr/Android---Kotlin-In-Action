@@ -12,10 +12,10 @@ Android 팀 Kotlin In Action 책을 보며 공부한 내용을 관리하는 저�
 
 - 김유정 [yuchocopie](https://github.com/yuchocopie)
 - 박재민 [mkSpace](https://github.com/mkSpace)
-- 박서희
-- 유희진
-- 정현성
-- 양민욱
+- 박서희 [seohui548](https://github.com/seohui548)
+- 유희진 [Huijiny](https://github.com/Huijiny)
+- 정현성 [jin55789](https://github.com/jin55789)
+- 양민욱 [jaeryo2357](https://github.com/jaeryo2357)
 
 
 
