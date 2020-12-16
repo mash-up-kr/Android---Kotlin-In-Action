@@ -24,5 +24,7 @@ fun main() {
 
     val numberTo100 = naturalNumbers.takeWhile { it <= 100 }
     println(numberTo100.sum())
+    val name = 10
+    { println(3)}()
 
 }
