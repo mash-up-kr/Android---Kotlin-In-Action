@@ -25,7 +25,7 @@ Android 팀 Kotlin In Action 책을 보며 공부한 내용을 관리하는 저�
 | [Chapter02 코틀린 기초](https://github.com/mkSpace/kotlin-practice4)                                  | 서희        |
 | [Chapter03 함수 정의와 호출](https://github.com/mash-up-kr/Android---Kotlin-In-Action/blob/dev/%EB%AF%BC%EC%9A%B1/ppt/mashup_kotlin%203%EC%9E%A5.pdf)                             | 민욱        |
 | [Chapter04 클래스, 객체, 인터페이스](https://www.notion.so/Chapter4-0c5a0d14a20f4730a11d128ec38d0e4e),[실습](https://github.com/mkSpace/kotlin-practice4)                     | 재민        |
-| [Chapter05 람다로 프로그래밍](https://github.com/mash-up-kr/Android---Kotlin-In-Action/tree/dev/yuchocopie/kotlin-practice5)                            | 유정        |
+| [Chapter05 람다로 프로그래밍](https://www.notion.so/5-553bb1e52d7844c094246aa5fb131e5b)                            | 유정        |
 | [Chapter07 연산자 오버로딩과 기타 관례](https://github.com/mash-up-kr/Android---Kotlin-In-Action/blob/dev/%ED%98%84%EC%84%B1/ppt/KotlinInAction_7.key)                  | 현성        |
 | Chapter08 고차 함수 : 파라미터와 반환 값으로 람다 사용 | 유정,재민   |
 
